@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import './App.css';
 import nctData from "./assets/nct-data.json";
 import NCTMember from "./components/NCTMember";
-import { Container, Row, Col, DropdownButton, Dropdown, ListGroup, Card, Button} from "react-bootstrap";
+import Aggregator from "./components/Aggregator";
+import { Container, Row, Col } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -68,7 +69,8 @@ function App() {
               total={total}
               handleClearFilter={handleClearFilter}
               totalNum={totalNum}
-              setTotalNum={setTotalNum}/>
+              setTotalNum={setTotalNum}
+              biasList={biasList}/>
             {/* <Card>
               <Card.Body>
                 <DropdownButton
