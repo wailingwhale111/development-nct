@@ -61,7 +61,15 @@ function App() {
       <Container>
         <Row>
           <Col lg={3}>
-            <Card>
+            <Aggregator
+              selectSorting={selectSorting}
+              selectFilterPosition={selectFilterPosition}
+              selectFilterGroup={selectFilterGroup}
+              total={total}
+              handleClearFilter={handleClearFilter}
+              totalNum={totalNum}
+              setTotalNum={setTotalNum}/>
+            {/* <Card>
               <Card.Body>
                 <DropdownButton
                   id="dropdown-button-dark-example1"
@@ -115,7 +123,7 @@ function App() {
                 <Button className="btn btn-danger" type="button" onClick={handleClearFilter}>Clear Filter</Button>
                 </Card.Body>
                 <Card.Footer>Average Age of My Bias: {totalNum === 0 ? "" : total / totalNum}</Card.Footer>
-              </Card>
+              </Card> */}
           </Col>
           <Col>
             <h1><strong>My NCT Universe</strong></h1> 
