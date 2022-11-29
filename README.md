@@ -9,7 +9,7 @@ sub-groups and position. Among the 23 members, it's hard to have one "bias" (a t
 favorite member), so I made a "bias list," where you can add your favorite members to your list, and
 it gives an average of their age.
 
-Website link:
+Website link: https://wailingwhale111.github.io/development-nct/
 
 I only had NCTMember Component, which handles adding and removing members from the bias list and
 displaying the members using "Card" from react bootstrap. To implement this, the props I had to
