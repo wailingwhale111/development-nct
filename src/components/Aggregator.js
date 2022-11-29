@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, Button, DropdownButton } from "react-bootstrap"
+import { Card, Button, DropdownButton, Dropdown, ListGroup } from "react-bootstrap"
 
 export default function Aggregator(props) {
   return (<Card>
@@ -45,7 +45,7 @@ export default function Aggregator(props) {
                 </DropdownButton>
                 <br/>
                 <strong>My Bias List:</strong> 
-                {biasList.map(({name, age}) => {
+                {props.biasList.map(({name, age}) => {
                   props.total += age
                     return (
                     <ListGroup.Item>
