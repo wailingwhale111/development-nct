@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Taeil",
+    "position": "Vocalist",
+    "group": "NCT 127, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 17,
+    "image": "images/taeil.jpeg",
+    "age": 28
+  },
+  {
+    "name": "Johnny",
+    "position": "Dancer, Rapper, Vocalist",
+    "group": "NCT 127, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 9,
+    "image": "images/johnny.jpeg",
+    "age": 27
+  },
+  {
+    "name": "Taeyong",
+    "position": "Leader, Rapper, Dancer, Vocalist",
+    "group": "NCT 127, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 18,
+    "image": "images/taeyong.jpeg",
+    "age": 27
+  },
+  {
+    "name": "Yuta",
+    "position": "Dancer, Vocalist, Rapper",
+    "group": "NCT 127, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 23,
+    "image": "images/yuta.jpeg",
+    "age": 27
+  },
+  {
+    "name": "Kun",
+    "position": "Leader, Vocalist, Rapper",
+    "group": "WayV, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 11,
+    "image": "images/kun.jpeg",
+    "age": 26
+  },
+  {
+    "name": "Doyoung",
+    "position": "Vocalist",
+    "group": "NCT 127, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 2,
+    "image": "images/doyoung.jpeg",
+    "age": 26
+  },
+  {
+    "name": "Ten",
+    "position": "Dancer, Rapper, Vocalist",
+    "group": "NCT U, WayV, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 19,
+    "image": "images/ten.jpeg",
+    "age": 26
+  },
+  {
+    "name": "Jaehyun",
+    "position": "Vocalist, Dancer, Rapper",
+    "group": "NCT 127, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 5,
+    "image": "images/jaehyun.jpeg",
+    "age": 25
+  },
+  {
+    "name": "Winwin",
+    "position": "Dancer, Vocalist, Rapper",
+    "group": "NCT 127, NCT U, WayV, NCT 2018, NCT 2020",
+    "alphabetical": 20,
+    "image": "images/winwin.jpeg",
+    "age": 25
+  },
+  {
+    "name": "Jungwoo",
+    "position": "Dancer, Vocalist",
+    "group": "NCT 127, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 10,
+    "image": "images/jungwoo.jpeg",
+    "age": 24
+  },
+  {
+    "name": "Lucas",
+    "position": "Rapper, Vocalist",
+    "group": "NCT U, WayV, NCT 2018, NCT 2020",
+    "alphabetical": 12,
+    "image": "images/lucas.jpeg",
+    "age": 23
+  },
+  {
+    "name": "Mark",
+    "position": "Leader, Rapper, Dancer",
+    "group": "NCT 127, NCT U, NCT DREAM, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 13,
+    "image": "images/mark.jpeg",
+    "age": 23
+  },
+  {
+    "name": "Xiaojun",
+    "position": "Vocalist",
+    "group": "WayV, NCT U, NCT 2020, NCT 2021",
+    "alphabetical": 21,
+    "image": "images/xiaojun.jpeg",
+    "age": 23
+  },
+  {
+    "name": "Hendery",
+    "position": "Dancer, Rapper, Vocalist",
+    "group": "NCT U, NCT 2020, NCT 2021",
+    "alphabetical": 4,
+    "image": "images/hendery.jpeg",
+    "age": 23
+  },
+  {
+    "name": "Renjun",
+    "position": "Vocalist, Dancer",
+    "group": "NCT DREAM, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 14,
+    "image": "images/renjun.jpeg",
+    "age": 22
+  },
+  {
+    "name": "Jeno",
+    "position": "Dancer, Rapper, Vocalist",
+    "group": "NCT DREAM, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 7,
+    "image": "images/jeno.jpeg",
+    "age": 22
+  },
+  {
+    "name": "Haechan",
+    "position": "Dancer, Vocalist",
+    "group": "NCT 127, NCT DREAM, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 3,
+    "image": "images/haechan.jpeg",
+    "age": 22
+  },
+  {
+    "name": "Jaemin",
+    "position": "Dancer, Rapper, Vocalist",
+    "group": "NCT DREAM, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 6,
+    "image": "images/jaemin.jpeg",
+    "age": 22
+  },
+  {
+    "name": "Yangyang",
+    "position": "Rapper, Dancer, Vocalist",
+    "group": "NCT U, WayV, NCT 2020, NCT 2021",
+    "alphabetical": 22,
+    "image": "images/yangyang.jpeg",
+    "age": 22
+  },
+  {
+    "name": "Shotaro",
+    "position": "Rapper, Dancer",
+    "group": "NCT U, NCT 2020, NCT 2021",
+    "alphabetical": 15,
+    "image": "images/shotaro.jpeg",
+    "age": 21
+  },
+  {
+    "name": "Sungchan",
+    "position": "Rapper",
+    "group": "NCT U, NCT 2020, NCT 2021",
+    "alphabetical": 16,
+    "image": "images/sungchan.jpeg",
+    "age": 21
+  },
+  {
+    "name": "Chenle",
+    "position": "Vocalist",
+    "group": "NCT DREAM, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 1,
+    "image": "images/chenle.jpeg",
+    "age": 21
+  },
+  {
+    "name": "Jisung",
+    "position": "Dancer, Vocalist, Rapper",
+    "group": "NCT DREAM, NCT U, NCT 2018, NCT 2020, NCT 2021",
+    "alphabetical": 8,
+    "image": "images/jisung.jpeg",
+    "age": 20
+  }
+]
