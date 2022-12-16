@@ -61,7 +61,7 @@ function App() {
     <div className="App">
       <Container>
         <Row>
-          <Col lg={3} position="sticky">
+          <Col lg={3} style={{position: "sticky"}}>
             <Aggregator
               selectSorting={selectSorting}
               selectFilterPosition={selectFilterPosition}
