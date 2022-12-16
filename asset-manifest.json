@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/development-nct/static/css/main.0e4daf54.css",
-    "main.js": "/development-nct/static/js/main.99c37743.js",
+    "main.js": "/development-nct/static/js/main.87da26db.js",
     "index.html": "/development-nct/index.html",
     "main.0e4daf54.css.map": "/development-nct/static/css/main.0e4daf54.css.map",
-    "main.99c37743.js.map": "/development-nct/static/js/main.99c37743.js.map"
+    "main.87da26db.js.map": "/development-nct/static/js/main.87da26db.js.map"
   },
   "entrypoints": [
     "static/css/main.0e4daf54.css",
-    "static/js/main.99c37743.js"
+    "static/js/main.87da26db.js"
   ]
 }
